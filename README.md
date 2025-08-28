@@ -1,4 +1,4 @@
 # yuuki's texts
 
 * [Wikinder](https://wikinder.org/yuuki)
-* [X](x)
+* [X](https://github.com/yuukiarchive/x)
