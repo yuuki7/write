@@ -1,4 +1,4 @@
-# yuuki's writings
+# yuuki writes:
 
 * [Wikinder](https://wikinder.org/yuuki)
-* [X](https://github.com/yuukiarchive/x)
+* [X](https://github.com/yuuki7/x)
